@@ -1,0 +1,11 @@
+{
+  "com_1": "System.out.println();",
+  "com_2": "System.out.format(\"\");",
+  "com_3": "import java.util.Scanner;",
+  "com_4": "Scanner sc = new Scanner(System.in);",
+  "com_5": "/command example",
+  "com_6": "/command example",
+  "com_7": "/command example",
+  "com_8": "/command example",
+  "com_9": "/command example"
+}
